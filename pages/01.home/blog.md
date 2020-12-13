@@ -12,5 +12,6 @@ content:
 feed:
     limit: 10
 login: {  }
+hero_classes: 'parallax text-light overlay-dark'
 ---
 
