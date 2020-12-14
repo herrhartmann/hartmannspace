@@ -31,8 +31,3 @@ Beginnen wir mit den theoretischen Grundlagen
 4. Lerntempo (Wann soll ich es lernen?)
 5. Lerngruppe (Wer soll was genau lernen?)
 6. Lernkontext (Wo soll ich es lernen?)
-
-
-
-
-
