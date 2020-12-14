@@ -13,6 +13,8 @@ feed:
     limit: 10
 login: {  }
 hero_classes: 'parallax text-light overlay-dark hero-large'
+media_order: andrey-haimin-q2Fyzn-KJOQ-unsplash.jpg
+hero_image: andrey-haimin-q2Fyzn-KJOQ-unsplash.jpg
 ---
 
 ## Blog & Material
