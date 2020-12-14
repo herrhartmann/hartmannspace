@@ -23,7 +23,7 @@ Auf dieser Seite findet sich mein offenes Webmaterial. Offen bedeutet hier: (1) 
 
 Wie das genau funktioniert, und warum es notwendig ist, möchte ich hier kurz erklären. Viele LMS sind in der Regel geschlossen und bieten verschiedenste Testformate an, die oft Plugins oder Drittanbietern abhängig sind. Oft frage ich mich, ob das wirklich notwendig ist, um gute Materialien für den Unterricht zu erstellen. Im Rahmen der Digitalisierungsdebatte wird oft von personalisierten Lernszenarien gesprochen - was ich aber oft vorfinde sind standardisierte Tests mit wenig Involvement und viel PDF - Lehrer:innen versuchen Ihr bestes, machen aber oft auch Ihre ersten Gehversuche im Netz. Ich möchte hier vorstellen, wie man einfache Lernsettings in einem CMS mit einfachen Kniffen personalisieren kann, ohne dabei komplexe Strukturen erlernen zu müssen.
 
-Beginnen wir mit den theoretischen Grundlagen:
+Beginnen wir mit den theoretischen Grundlagen
 
 1. Lernziele (Warum soll ich es lernen?)
 2. Lernansatz (Wie soll ich es lernen?)
