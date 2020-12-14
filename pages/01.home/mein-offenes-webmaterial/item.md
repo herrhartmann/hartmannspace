@@ -13,7 +13,7 @@ taxonomy:
         - Unterricht
         - Didaktik
 dateformat: 'd-m-Y H:i'
-hero_classes: 'parallax text-light overlay-dark'
+hero_classes: 'parallax text-light overlay-dark hero-large'
 hero_image: brina-blum-Bb_X4JgSqIM-unsplash.jpg
 ---
 
