@@ -1,5 +1,5 @@
 ---
-title: 'Mein offenes Webmaterial'
+title: 'Offenes Webmaterial'
 feed:
     limit: 10
 media_order: brina-blum-Bb_X4JgSqIM-unsplash.jpg
