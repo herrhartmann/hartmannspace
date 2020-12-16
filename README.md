@@ -1,4 +1,3 @@
 # hartmannspace
-Mein offenes Webmaterial
 
-Testen wird das mal
+Hier findet ihr offenes Webmaterial aus meinem Unterricht. Es kann gecloned oder remixt werden (CC 4.0). Have fun.
