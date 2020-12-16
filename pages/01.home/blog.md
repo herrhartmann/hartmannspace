@@ -17,4 +17,4 @@ hero_image: daniel-leone-g30P1zcOzXo-unsplash.jpg
 media_order: daniel-leone-g30P1zcOzXo-unsplash.jpg
 ---
 
-[ui-animated-text words="Material" animation="loading-bar" element="h2"]Offenes[/ui-animated-text]
+[ui-animated-text words="Web-Material" animation="loading-bar" element="h2"]Offenes[/ui-animated-text]
