@@ -12,9 +12,9 @@ content:
 feed:
     limit: 10
 login: {  }
-hero_classes: 'parallax text-light overlay-dark hero-large'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: daniel-leone-g30P1zcOzXo-unsplash.jpg
 media_order: daniel-leone-g30P1zcOzXo-unsplash.jpg
 ---
 
-## Blog & Material
+## Materialien
