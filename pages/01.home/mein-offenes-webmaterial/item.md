@@ -18,7 +18,7 @@ hero_classes: 'parallax text-light overlay-dark hero-large'
 hero_image: brina-blum-Bb_X4JgSqIM-unsplash.jpg
 ---
 
-Auf dieser Seite findet sich mein offenes Webmaterial. Offen bedeutet hier: (1) es handelt sich um OER (2) das Material kann per Github editiert werden und alle Besitzer des Repositories können fremde Änderungsvorschläge für das Material zulassen oder abweisen. Wird die Änderung zugelassen, fließt die Änderung sofort in das Online-Material ein. 
+Auf dieser Seite findet sich allerhand unnützer Kram. Offen bedeutet hier: (1) es handelt sich um OER (2) das Material kann per Github editiert werden und alle Besitzer des Repositories können fremde Änderungsvorschläge für das Material zulassen oder abweisen. Wird die Änderung zugelassen, fließt die Änderung sofort in das Online-Material ein. 
 
 ===
 
