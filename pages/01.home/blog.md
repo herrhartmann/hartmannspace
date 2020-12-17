@@ -18,3 +18,5 @@ media_order: 'daniel-leone-g30P1zcOzXo-unsplash.jpg,joel-jasmin-forestbird-efuwb
 ---
 
 [ui-animated-text words="Web-Material" animation="loading-bar" element="h2"]Offenes[/ui-animated-text]
+
+[fa icon=fa-git extras=fa-spin,fa-3x,fa-fw,margin-bottom /]
