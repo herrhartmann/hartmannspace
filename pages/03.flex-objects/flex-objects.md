@@ -1,5 +1,5 @@
 ---
-title: flex-objects
+title: Material
 flex:
     directory: material
 ---
