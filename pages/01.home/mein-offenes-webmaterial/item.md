@@ -1,5 +1,5 @@
 ---
-title: 'Offenes Webmaterial'
+title: 'Technologische Grundlagen und philosophische Grundfragen für offenes Webmaterial'
 feed:
     limit: 10
 media_order: brina-blum-Bb_X4JgSqIM-unsplash.jpg
@@ -18,17 +18,14 @@ hero_classes: 'parallax text-light overlay-dark hero-large'
 hero_image: brina-blum-Bb_X4JgSqIM-unsplash.jpg
 ---
 
-In diesem Blogartikel möchte ich erklären, wie offenes Material auf Ebene der Administration angeboten und für User aufbereitet werden kann. Gleichzeitig biete ich Beispiele dafür auf meiner Website an, um es auch "Normalusern" möglich zu machen, diese Gedanken nachzuvollziehen. Offen bedeutet für mich: (1) es handelt sich um OER (2) das Material kann per 2-way-sync zwischen der Website und Github/Gitea synchronisiert werden, wobei eine Versionskontrolle stattfindet. 
+In diesem Blogartikel möchte ich erklären, wie offenes Material auf Ebene der Administration angeboten und für User aufbereitet werden kann. Gleichzeitig biete ich Beispiele dafür auf meiner Website an, um es auch den Anwendern möglich zu machen, diese Gedanken nachzuvollziehen. Offen bedeutet für mich: (1) es handelt sich um OER, welches direkt in einem CMS erstellt ist (in meinem Falle GravCMS) (2) das Material kann per 2-way-sync zwischen der Website und Github/Gitea synchronisiert werden, wobei eine Versionskontrolle stattfindet. (3) Es gibt ein Materialverzeichnis - in diesem Falle mit Flex-Objects, welches das Durchsuchen unheimlich schnell und effizient macht.
 
 ===
 
-Wie das genau funktioniert, und warum es notwendig ist, möchte ich hier kurz erklären. Viele LMS sind in der Regel geschlossen und bieten verschiedenste Testformate an, die oft Plugins oder Drittanbietern abhängig sind. Oft frage ich mich, ob das wirklich notwendig ist, um gute Materialien für den Unterricht zu erstellen. Im Rahmen der Digitalisierungsdebatte wird oft von personalisierten Lernszenarien gesprochen - was ich aber oft vorfinde sind standardisierte Tests mit wenig Involvement und viel PDF - Lehrer:innen versuchen Ihr bestes, machen aber oft auch Ihre ersten Gehversuche im Netz. Ich möchte hier vorstellen, wie man einfache Lernsettings in einem CMS mit einfachen Kniffen personalisieren kann, ohne dabei komplexe Strukturen erlernen zu müssen.
+Eine Frage, die ich mir bei der Bedienung von großen LMS immer stelle ist, wofür die Komplexität vieler Systeme in Bezug auf die Erstellung von Materialien überhaupt notwendig ist. Eine basale Anforderung an Webmaterial ist, dass medienkonvergente Inhalte gut aufbereitet, barrierefrei, responsiv und effizient abrufbar sind. Viele LMS scheitern schon an einem zu komplexen User-Interface mit verschachtelten Menüs und Optionen, ganz abgesehen von der Implementation von Dritttools für die Erstellung interaktiver Inhalte. Im Alltag vieler Lehrer:innen ist mangels Zeit und oft auch mangels Kenntnissen im Bereich der Bearbeitung keine Zeit für ein effizientes Erstellen von Online-Material. Dieser Umstand führt dazu, dass komplexe LMS mit PDFs gefüllt werden. Für die Erstellung von gutem online Material setze ich auf moderne Flatfile CMS. 
 
-Beginnen wir mit den theoretischen Grundlagen
+> Keep it simple.
 
-1. Lernziele (Warum soll ich es lernen?)
-2. Lernansatz (Wie soll ich es lernen?)
-3. Lerninhalte (Was soll ich lernen?)
-4. Lerntempo (Wann soll ich es lernen?)
-5. Lerngruppe (Wer soll was genau lernen?)
-6. Lernkontext (Wo soll ich es lernen?)
+Das Motto hierbei ist: "Keep it simple".
+
+Wie das genau funktioniert, und warum es notwendig ist, möchte ich hier kurz erklären. Viele LMS sind in der Regel geschlossen und bieten verschiedenste Testformate an, die oft von Plugins oder Drittanbietern abhängig sind. Oft frage ich mich, ob das wirklich notwendig ist, um gute Materialien für den Unterricht zu erstellen. Im Rahmen der Digitalisierungsdebatte wird oft von personalisierten Lernszenarien gesprochen - was ich aber oft vorfinde sind standardisierte Tests mit wenig Involvement und viel PDF - Lehrer:innen versuchen Ihr bestes, machen aber oft auch Ihre ersten Gehversuche im Netz. Ich möchte hier vorstellen, wie man einfache Lernsettings in einem CMS mit einfachen Kniffen personalisieren kann, ohne dabei komplexe Strukturen erlernen zu müssen. Die empirischen Befunde zu Online-Testverfahren sind oft uneindeutig, die 
