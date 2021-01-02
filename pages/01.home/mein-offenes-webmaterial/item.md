@@ -29,4 +29,4 @@ Eine Frage, die ich mir bei der Bedienung von großen LMS immer stelle ist, wof�
 
 Das Motto hierbei lautet für mich: "Keep it simple". Das Material sollte in annehmbarer Zeit erstellbar, distribuierbar und ohne Umstände für alle erreichbar sein. Hierbei sollen alle notwendigen Anforderungen an Kompetenzbereiche berücksichtigt werden.
 
-Wie das genau funktioniert, und warum es notwendig ist, möchte ich hier kurz erklären. Viele LMS sind in der Regel geschlossen und bieten verschiedenste Plugins an, die Interaktion ermöglichen. Oft frage ich mich, ob das wirklich notwendig ist, um gute Materialien für den Unterricht zu erstellen. Ich möchte hier vorstellen, wie man einfache Lernsettings in einem CMS mit einfachen Kniffen personalisieren kann, ohne dabei komplexe Strukturen erlernen zu müssen.
+Wie das genau funktioniert und warum es notwendig ist, möchte ich hier kurz erklären. Ich möchte hier vorstellen, wie man einfache Lernsettings in einem CMS mit einfachen Kniffen personalisieren kann, ohne dabei komplexe Strukturen erlernen zu müssen.
