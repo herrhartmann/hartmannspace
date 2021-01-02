@@ -18,7 +18,7 @@ hero_classes: 'parallax text-light overlay-dark hero-large'
 hero_image: brina-blum-Bb_X4JgSqIM-unsplash.jpg
 ---
 
-Auf dieser Seite findet sich allerhand unnützer Kram. Offen bedeutet hier: (1) es handelt sich um OER (2) das Material kann per Github editiert werden und alle Besitzer des Repositories können fremde Änderungsvorschläge für das Material zulassen oder abweisen. Wird die Änderung zugelassen, fließt die Änderung sofort in das Online-Material ein. 
+In diesem Blogartikel möchte ich erklären, wie offenes Material auf Ebene der Administration angeboten und für User aufbereitet werden kann. Gleichzeitig biete ich Beispiele dafür auf meiner Website an, um es auch "Normalusern" möglich zu machen, diese Gedanken nachzuvollziehen. Offen bedeutet für mich: (1) es handelt sich um OER (2) das Material kann per 2-way-sync zwischen der Website und Github/Gitea synchronisiert werden, wobei eine Versionskontrolle stattfindet. 
 
 ===
 
