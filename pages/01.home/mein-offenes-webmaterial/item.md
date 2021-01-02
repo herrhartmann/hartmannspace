@@ -24,6 +24,8 @@ In diesem Blogartikel möchte ich erklären, wie offenes Material auf Ebene der 
 
 Eine Frage, die ich mir bei der Bedienung von großen LMS immer stelle ist, wofür die Komplexität vieler Systeme in Bezug auf die Erstellung von Materialien überhaupt notwendig ist. Eine basale Anforderung an Webmaterial ist, dass medienkonvergente Inhalte gut aufbereitet, barrierefrei, responsiv und effizient abrufbar sind. Viele LMS scheitern schon an einem zu komplexen User-Interface mit verschachtelten Menüs und Optionen, ganz abgesehen von individuellen User-Logins und der Implementation von Dritttools für die Erstellung interaktiver Inhalte. Im Alltag vieler Lehrer:innen ist mangels Zeit und oft auch mangels Kenntnissen im Bereich der Bearbeitung, der Berücksichtigung von Datenschutz und Urheberrecht keine Zeit für ein effizientes Erstellen von Online-Material. Dieser Umstand führt dazu, dass komplexe LMS mit PDFs gefüllt werden. Für die Erstellung von gutem online Material setze ich auf moderne Flatfile CMS.
 
+> Keep it simple!
+
 * Wofür braucht es ein Login?
 * Wofür braucht es Interaktion?
 
