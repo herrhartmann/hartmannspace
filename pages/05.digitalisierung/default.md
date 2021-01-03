@@ -1,4 +1,5 @@
 ---
 title: Digitalisierung
+visible: false
 ---
 
