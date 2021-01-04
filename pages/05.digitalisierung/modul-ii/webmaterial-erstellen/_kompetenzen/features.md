@@ -40,3 +40,4 @@ features:
         url: null
 ---
 
+[center]## Kompetenzfelder der Einheit[/center]
