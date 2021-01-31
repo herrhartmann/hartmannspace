@@ -10,4 +10,4 @@ hide_git_sync_repo_link: false
 
 Some text here.
 
-[twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @SimonHartmann14" height="600"]
+[twitter url="https://twitter.com/SimonHartmann14" text="Tweets by @SimonHartmann14" height="600"]
