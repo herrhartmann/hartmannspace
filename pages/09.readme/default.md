@@ -1,6 +1,8 @@
 ---
 title: 'Read Me'
 published: true
+hide_git_sync_repo_link: false
+visible: false
 ---
 
 ### Create, Share and Collaborate using Grav Open Publishing (Blogging) Space!  

@@ -6,8 +6,7 @@ position: top
 hide_git_sync_repo_link: false
 ---
 
-#### Markdown Area
+#### Aktuelles
 
-Some text here.
+!!!! Damn bro!
 
-[twitter url="https://twitter.com/SimonHartmann14" text="Tweets by @SimonHartmann14" height="600"]
