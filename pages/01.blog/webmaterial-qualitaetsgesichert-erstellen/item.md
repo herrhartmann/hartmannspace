@@ -18,6 +18,7 @@ taxonomy:
         - Material
         - Grav
         - Git
+hero_classes: 'parallax text-light'
 ---
 
 Ein ungelöstes Problem in der Erstellung von Materialien für den Schulunterricht, ist die langfristige _Maintenance_. Viele Lehrerinnen haben eine große Anzahl von Dateien, die früher oder später _out of date_ sind oder aber Fehler enthalten, die über Jahre hinweg möglicherweise nicht adressiert werden. Um diese Art und Weise der lehrerzentrierten Materialerstellung zu verändern, möchte ich hier ein Beispiel mit GravCMS und Git vorstellen. 
