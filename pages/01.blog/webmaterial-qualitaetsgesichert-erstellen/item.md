@@ -37,6 +37,7 @@ Die Dateien, die synchronisiert werden sind in Markdown verfasst _(*.md)_ diese 
 
 ![NextGen](https://getgrav.org/user/pages/premium/nextgen-editor/markup.gif?g-fad0e05c)
 
+Der NextGen Editor ermöglicht es Lehrer:innen (mit wenigen Ausnahmen) wie aus Textverarbeitungsprogrammen gewohnt ihr Material zu erstellen. Es wird jedoch als Markdown gespeichert und automatisiert in das Git-Repository synchronisiert, d.h. alle Änderungen werden automatisch in einen Zweig des Hauptzweiges übernommen, oder bei Bearbeitung des Hauptzweiges, direkt in den Hauptzweig übernommen werden. Diese ein wenig technische Beschreibung ist für die User eventuell unnötig, aber es ist wichtig, um zu verstehen, wie langfristig gute Materialien entstehen könnten, die trotz divergierender Varianten ganz konkret auf einem gemeinsamen Standard aufbauen, der über eine Fachkonferenz demokratisch und mit Blick auf die Kernlehrpläne und schulinterne Curricula entschieden wurde. 
 
 
 
