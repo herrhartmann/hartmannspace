@@ -35,7 +35,7 @@ Diese Arbeitsweise ist nicht unbekannt, allerdings in der Schule auf technischer
 
 Die Dateien, die synchronisiert werden sind in Markdown verfasst _(*.md)_ diese vereinfachte HTML Darstellung ermöglicht es durch einfache Befehle Seiten zu erstellen. Markdown übersteigt jedoch die Fähigkeiten vieler Lehrer:innen. Grav CMS bietet hier mit einem Pro-Plugin namens NextGen Editor eine kostengünstige Alternative, die das Verfassen von Markdown Dateien in einen WYSIWYG (What you see is what you get) Editor ermöglicht. 
 
-![NextGen](http://https://getgrav.org/user/pages/premium/nextgen-editor/markup.gif)
+![NextGen](https://getgrav.org/user/pages/premium/nextgen-editor/markup.gif?g-fad0e05c)
 
 
 
