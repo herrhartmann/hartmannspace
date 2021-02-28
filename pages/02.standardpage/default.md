@@ -1,12 +1,6 @@
 ---
 title: 'Standard Page'
 hide_git_sync_repo_link: false
-pp_protect: '1'
-pp_headline: 'Passwortschutz für individuelle Seiten'
-pp_description: 'Hier ist zu!'
-feed:
-    skip: true
-pp_password_hash: e98e3b3bdcfd2e9e0157a41b8ac9781102783a9b45d429c70dcdb935cfff766a47d03dfa5cbd29199c4edf4cdd7c2ff9264a28621a2aa87a5d40b40b51bc6f92
 ---
 
 This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
