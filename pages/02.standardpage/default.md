@@ -15,13 +15,12 @@ This is an example **standard** page, where content from one single page is disp
 
 1.  Liste einfügen.
 
-*   Test commit via ContentTools[/editable]
+*   Test commit via ContentTool
+    *   Löl[/editable]
 
 ![Sky and Mountain](chase-moyer-730496-unsplash.jpg?resize=600,450&classes=caption,caption-left,figure-left "Photo by Chase Moyer on Unsplash")
 
- [editable name="region-1"]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
- [/editable]
+ [editable name="region-1"][/editable]
 
 
 [clearboth]
