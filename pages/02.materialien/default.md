@@ -11,4 +11,13 @@ content:
 hide_next_prev_page_buttons: false
 ---
 
-Your page content goes here.
+<div class="accordion">
+  <input type="checkbox" id="accordion-1" name="accordion-checkbox" hidden>
+  <label class="accordion-header" for="accordion-1">
+    <i class="icon icon-arrow-right mr-1"></i>
+    Faust – Der Tragödie erster Teil
+  </label>
+  <div class="accordion-body">
+    <!-- Accordions content -->
+  </div>
+</div>
