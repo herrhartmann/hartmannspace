@@ -1,5 +1,5 @@
 ---
-title: 'J.W. Goethe – Leben & Werk'
+title: 'rerJ.W. Goethe – Leben & Werk'
 date: '07-03-2021 12:47'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -30,7 +30,7 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 !!! 1. **Lies** die Einträge zu Goethes Lebensstationen.
 !!! 2. **Notiere** Einträge, die dir besonders aufregend oder auffällig erscheinen.
 !!! 3. **Vergleiche** deine Eintragungen mit deinem/-r Partner/-in.
-!!! 4. **Diskturiere** in welchem Maße sich diese Stationen von der gegenwärtigen Lebenssituation unterscheidet. 
+!!! 4. **Diskturiere** in welchem Maße sich Goethes Lebenssituation in Bezug auf die Alltagssituation von Schriftstellern heute unterscheiden könnte.
 
 # 1749-1765: Kindheit in Frankfurt
 Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zusammen mit seiner Schwester Cornelia Friederike erhielt er teils vom Vater Privatunterricht in den damals üblichen Fächern, vor allem in Sprachen. 
