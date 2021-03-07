@@ -31,6 +31,8 @@ feed:
     description: 'Sample Blog Description'
 pagination: true
 child_type: item
+media_order: 'mountains_blog.jpg,giammarco-boscaro-zeH-ljawHtg-unsplash.jpg'
+hero_image: giammarco-boscaro-zeH-ljawHtg-unsplash.jpg
 ---
 
 [center][ui-animated-text words="Deutsch, Englisch" animation="push" element="h2"]Materialien:[/ui-animated-text]
