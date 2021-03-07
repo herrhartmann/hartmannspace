@@ -75,4 +75,4 @@ Der Gedichtzyklus „West-östlicher Divan“ wurde ebenso wie „Faust II“ nu
 
 So blieb Goethe als „Dichterfürst“ eine Institution, unterhielt mit ausgewählten Geistesgrößen Briefwechsel und wurde von zahlreichen Künstlern besucht. Am 22. März 1832 starb Johann Wolfgang Goethe in Weimar.
 
-Quelle: Elisabeth Böhm (April 2007),http://www.goethezeitportal.de/wissen/enzyklopaedie/goethe.html.
+Quelle: Elisabeth Böhm (April 2007), http://www.goethezeitportal.de/wissen/enzyklopaedie/goethe.html.
