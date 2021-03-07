@@ -21,8 +21,10 @@ taxonomy:
         - Deutsch
 ---
 
-Your page summary goes here.
+Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes. Hier lernst du ...
 
 ===
+
+[plugin:youtube](https://youtu.be/Rm_q1lCh2bE)
 
 Your page content goes here.
