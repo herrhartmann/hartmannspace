@@ -25,7 +25,7 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 
 ===
 
-# "Inwiefern könnten die Stationen in Goethes Lebenslauf sein Schreiben beeinflusst haben?"
+[center]# "Inwiefern könnten die Stationen in Goethes Lebenslauf sein Schreiben beeinflusst haben?"[/center]
 
 !!! 1. **Lies** die Einträge zu Goethes Lebensstationen.
 !!! 2. **Notiere** Einträge, die dir besonders aufregend oder auffällig erscheinen.
