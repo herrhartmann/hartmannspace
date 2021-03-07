@@ -11,13 +11,4 @@ content:
 hide_next_prev_page_buttons: false
 ---
 
-<div class="accordion">
-  <input type="checkbox" id="accordion-1" name="accordion-checkbox" hidden>
-  <label class="accordion-header" for="accordion-1">
-    <i class="icon icon-arrow-right mr-1"></i>
-    Faust – Der Tragödie erster Teil
-  </label>
-  <div class="accordion-body">
-    <!-- Accordions content -->
-  </div>
-</div>
+1. [Faust I – Der Tragödie erster Teil](https://hartmann.uber.space/admin/pages/materialien/faust-i-der-tragoedie-erster-teil/)
