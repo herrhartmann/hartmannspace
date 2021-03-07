@@ -9,6 +9,10 @@ content:
         by: date
         dir: asc
 hide_next_prev_page_buttons: false
+access:
+    site:
+        login: 'true'
+        editable: 'true'
 ---
 
 [editable]
