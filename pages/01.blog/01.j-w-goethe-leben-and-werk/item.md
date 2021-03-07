@@ -30,7 +30,7 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 [/center]
 
 !!! 1. **Lies** die Einträge zu Goethes Lebensstationen.
-!!! 2. **Notiere** Einträge, die dir besonders aufregend oder auffällig erscheinen.
+!!! 2. **Notiere** Stichpunkte zu Einträgen, die dir besonders aufregend oder auffällig erscheinen.
 !!! 3. **Vergleiche** deine Eintragungen mit deinem/-r Partner/-in.
 !!! 4. **Diskturiere** in welchem Maße sich Goethes Lebenssituation in Bezug auf die Alltagssituation von Schriftstellern heute unterscheiden könnte.
 
