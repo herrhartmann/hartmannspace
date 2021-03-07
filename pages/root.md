@@ -1,5 +1,5 @@
 ---
 access:
-    site.login: true
+    site: false
 ---
 
