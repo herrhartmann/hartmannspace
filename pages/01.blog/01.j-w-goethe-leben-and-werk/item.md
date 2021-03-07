@@ -25,7 +25,12 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 
 ===
 
-!!! Lies die 
+# Aufgabe: "Inwiefern könnten die Stationen in Goethes Lebenslauf sein Schreiben beeinflusst haben?"
+
+!!! 1. **Lies** die Einträge zu Goethes Lebensstationen.
+!!! 2. **Notiere** Einträge, die dir besonders aufregend oder auffällig erscheinen.
+!!! 3. **Vergleiche** deine Eintragungen mit deinem/-r Partner/-in.
+!!! 4. **Diskturiere** in welchem Maße sich diese Stationen von der gegenwärtigen Lebenssituation unterscheidet. 
 
 # 1749-1765: Kindheit in Frankfurt
 Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zusammen mit seiner Schwester Cornelia Friederike erhielt er teils vom Vater Privatunterricht in den damals üblichen Fächern, vor allem in Sprachen. 
