@@ -11,4 +11,6 @@ content:
 hide_next_prev_page_buttons: false
 ---
 
+[editable]
 Your page content goes here.
+[/editable]
