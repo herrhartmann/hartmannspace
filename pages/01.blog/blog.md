@@ -33,4 +33,5 @@ pagination: true
 child_type: item
 ---
 
-[ui-animated-text words="Deutsch, Englisch, Informatik" animation="push" element="h2"]Materialien[/ui-animated-text]
+[center][ui-animated-text words="Deutsch, Englisch, Informatik" animation="push" element="h2"]Materialien[/ui-animated-text]
+[/center]
