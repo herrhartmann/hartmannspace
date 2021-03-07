@@ -11,4 +11,4 @@ content:
 hide_next_prev_page_buttons: false
 ---
 
-1. [Faust I – Der Tragödie erster Teil](https://hartmann.uber.space/pages/materialien/faust-i-der-tragoedie-erster-teil/)
+1. [Faust I – Der Tragödie erster Teil](https://hartmann.uber.space/materialien/faust-i-der-tragoedie-erster-teil/)
