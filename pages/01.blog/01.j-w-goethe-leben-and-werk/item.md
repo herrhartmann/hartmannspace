@@ -12,6 +12,13 @@ feed:
 media_order: 'Goethe’s_life_mask,_1807.jpg'
 hero_classes: 'text-light, parallax, overlay-dark-gradient, hero-medium'
 hero_image: 'Goethe’s_life_mask,_1807.jpg'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - Goethe
+        - Literatur
+        - Deutsch
 ---
 
 Your page summary goes here.
