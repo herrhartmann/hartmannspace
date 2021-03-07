@@ -1,5 +1,5 @@
 ---
-title: 'rerJ.W. Goethe – Leben & Werk'
+title: 'J.W. Goethe – Leben & Werk'
 date: '07-03-2021 12:47'
 hide_git_sync_repo_link: false
 blog_url: /blog
