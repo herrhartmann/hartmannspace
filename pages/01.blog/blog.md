@@ -33,4 +33,4 @@ pagination: true
 child_type: item
 ---
 
-# Testpage
+[ui-animated-text words="Deutsch, Englisch, Informatik" animation="push" element="h2"]Materialien[/ui-animated-text]
