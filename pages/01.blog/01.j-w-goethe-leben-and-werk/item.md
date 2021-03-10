@@ -19,6 +19,7 @@ taxonomy:
         - Goethe
         - Literatur
         - Deutsch
+hide_hypothesis: false
 ---
 
 Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehreren Stationen.
@@ -76,3 +77,9 @@ Der Gedichtzyklus „West-östlicher Divan“ wurde ebenso wie „Faust II“ nu
 So blieb Goethe als „Dichterfürst“ eine Institution, unterhielt mit ausgewählten Geistesgrößen Briefwechsel und wurde von zahlreichen Künstlern besucht. Am 22. März 1832 starb Johann Wolfgang Goethe in Weimar.
 
 Quelle: Elisabeth Böhm (April 2007), http://www.goethezeitportal.de/wissen/enzyklopaedie/goethe.html.
+
+[h5p]https://klexikon.zum.de/index.php?title=Johann_Wolfgang_von_Goethe&amp;oldid=50882[/h5p]
+
+[plugin:youtube](https://www.youtube.com/watch?v=2JMSNKlekbA)
+
+
