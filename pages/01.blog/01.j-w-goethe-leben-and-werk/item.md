@@ -36,7 +36,7 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 !!! 4. **Diskturiert**, in welchem Maße sich Goethes Lebenssituation in Bezug auf die Alltagssituation von Schriftstellern heute unterscheiden könnte.
 
 ## 1749-1765: Kindheit in Frankfurt
-Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zusammen mit seiner Schwester Cornelia Friederike erhielt er teils vom Vater Privatunterricht in den damals üblichen Fächern, vor allem in Sprachen. 
+Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zusammen mit seiner Schwester Cornelia Friederike erhielt er teils vom Vater Privatunterricht in den damals üblichen Fächern, vor allem in Sprachen, wie Latein und altgriechisch.
 
 ## 1765-1768: Leipziger Studienjahre
 1765 ging er zum Jurastudium nach Leipzig. Mehr als für sein eigentliches Studienfach interessierte er sich aber für die schönen Künste, so besuchte er Poetikvorlesungen bei Christian Fürchtegott Gellert und nahm Zeichenunterricht bei Adam Friedrich Oeser.
@@ -77,9 +77,3 @@ Der Gedichtzyklus „West-östlicher Divan“ wurde ebenso wie „Faust II“ nu
 So blieb Goethe als „Dichterfürst“ eine Institution, unterhielt mit ausgewählten Geistesgrößen Briefwechsel und wurde von zahlreichen Künstlern besucht. Am 22. März 1832 starb Johann Wolfgang Goethe in Weimar.
 
 Quelle: Elisabeth Böhm (April 2007), http://www.goethezeitportal.de/wissen/enzyklopaedie/goethe.html.
-
-[h5p]https://klexikon.zum.de/index.php?title=Johann_Wolfgang_von_Goethe&amp;oldid=50882[/h5p]
-
-[plugin:youtube](https://www.youtube.com/watch?v=2JMSNKlekbA)
-
-
