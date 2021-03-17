@@ -49,7 +49,7 @@ Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zu
 ## 1768-1770: Frankfurter Intermezzo
 Im August 1768 zwang ihn ein Blutsturz nach Frankfurt zurückzukehren. Dort blieb er während seiner Genesung, bis er 1770 nach Straßburg ging, um dort endlich seine Studien abzuschließen.
 
-## 1769 TestTest
+## 1769 TestTest - Ergänzungen einpflegen ...
 
 ## 1770-1771: Straßburg
 In Straßburg schloss Goethe Freundschaft mit Johann Gottfried Herder, der ihn mit anderen jungen Schriftstellern bekannt machte, die sich bewusst von den Regeln und Formen der hergebrachten Poesie distanzierten. Statt dessen betonten sie die schöpferische Freiheit des Dichters und stellten den Gefühlsausdruck in den Mittelpunkt, was ihrer literarischen Strömung die Bezeichnung „Sturm und Drang“ eintrug.
