@@ -20,9 +20,10 @@ taxonomy:
         - Literatur
         - Deutsch
 hide_hypothesis: false
-enabled: true
-git-sync: false
-git-sync-mode: foreground
+access:
+    site:
+        login: 'true'
+        editable: 'true'
 ---
 
 Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehreren Stationen.
