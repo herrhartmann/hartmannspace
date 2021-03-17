@@ -39,10 +39,11 @@ Diese Lerneinheit beschäftigt sich mit dem Leben und dem Werk Goethes in mehrer
 !!! 3. **Vergleiche** deine Eintragungen mit deinem/-r Partner/-in.
 !!! 4. **Diskturiert**, in welchem Maße sich Goethes Lebenssituation in Bezug auf die Alltagssituation von Schriftstellern heute unterscheiden könnte.
 
-[editable]
-## 1749-1765: Kindheit in Frankfurt
+[editable name="region-0"]## 1749-1765: Kindheit in Frankfurt
+
 Johann Wolfgang Goethe wurde am 28. August 1749 in Frankfurt am Main geboren. Zusammen mit seiner Schwester Cornelia Friederike erhielt er teils vom Vater Privatunterricht in den damals üblichen Fächern, vor allem in Sprachen, wie Latein und altgriechisch.
-[/editable]
+
+Und außerdem hat er zu dieser Zeit besonders gern Kartoffeln gegessen![/editable]
 
 ## 1765-1768: Leipziger Studienjahre
 1765 ging er zum Jurastudium nach Leipzig. Mehr als für sein eigentliches Studienfach interessierte er sich aber für die schönen Künste, so besuchte er Poetikvorlesungen bei Christian Fürchtegott Gellert und nahm Zeichenunterricht bei Adam Friedrich Oeser.
